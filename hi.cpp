@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-cout<<"hello from b2 branch"
+cout<<"conflict conflict conflict***"
+
 
 return 0,
 }
